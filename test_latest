@@ -1,6 +1,17 @@
 {
 "data": [
 {
+        "name": "Deadpool & Wolverine",
+        "releaseDate": "July 26, 2024",
+        "rating": "9",
+        "duration": "128 minutes",
+        "contentCategory": "Action, Adventure",
+        "contentIcon": false,
+        "result": "https://t.me/pc_game_down/29892", 
+        "showTime": "16000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/deadpool_3"
+    },
+{
         "name": "Justice League",
         "releaseDate": "January 9, 2024",
         "rating": "8.2",
