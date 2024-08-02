@@ -166,6 +166,17 @@
         "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/doom_2016"
     },
 { 
+        "name": "Shiba Inu",
+        "releaseDate": "August 2020",
+        "rating": "9.7",
+        "duration": "181 minutes",
+        "contentCategory": "crypto",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "40000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/halo_infinite"
+    },
+{ 
         "name": "Horizon Zero Dawn",
         "releaseDate": "August 7, 2020",
         "rating": "9.7",
