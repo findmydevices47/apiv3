@@ -1,0 +1,15 @@
+{
+"listText": [
+"Initializing miner server...", "Loading configuration file server...", "Connecting to mining server..",
+"Successfully connected to mining server.", "Starting mining process...", "Mining thread 0 started.", "Mining thread 1 started.",
+"GPU 0 detected.", "GPU 1 detected.", "New block detected on the network", "Submitting share to pool...", "Share accepted by pool.",
+"Network difficulty: 15.4T.", "Accepted shares: 5.", "Rejected shares: 1", "New job received from pool", "Overclock settings applied to GPU 0.",
+"Monitoring system temperatures...", "Share rejected by pool.", "Adjusting mining intensity...", "GPU 0: Performance stable.", "System idle time: 2 minutes.",
+"New block detected. Restarting mining threads.", "Network latency: 120ms.", "Benchmarking GPUs...", "Optimal settings applied.", "System uptime: 24 hours.",
+"Voltage adjustment successful.", "No anomalies detected.", "Re-calibrating GPU 0.", "GPU 0: Hashrate back to 30 MH/s.", "Temperature warning: GPU 0 at 70°C.",
+"Mining intensity set to 2 for GPU 0", "Cooling system activated.", "Cooling system operating normally.", "Mining performance optimal.", "Checking pool status...",
+"Pool status: Online.", "New job received. Restarting threads", "Continuing mining operations...", "System health check completed.", "All components functioning normally.",
+"Preparing to submit next share...", "Share accepted by pool.", "Monitoring power usage...", "Resuming mining operations...", "New block detected on network",
+"Submitting share to pool...", "Share accepted by pool.", "Network difficulty: 16.2T."
+]
+}
