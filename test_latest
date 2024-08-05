@@ -67,6 +67,17 @@
         "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/Oppenheimer"
     },
 {
+        "name": "Pushpa 2",
+        "releaseDate": "6 December 2024",
+        "rating": "8.2",
+        "duration": "181 minutes",
+        "contentCategory": "Action, Adventure",
+        "contentIcon": false,
+        "result": "",  
+        "showTime": "1000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/pushpa_2"
+    },
+{
         "name": "Guardians_of_the_Galaxy_Vol._3",
         "releaseDate": "27 June 2024",
         "rating": "9.4",
