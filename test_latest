@@ -7,7 +7,7 @@
         "duration": "181 minutes",
         "contentCategory": "epic science fiction",
         "contentIcon": false,
-        "result": "https://www.bing.com/search?pglt=41&q=kalki+movie+stream&cvid=a4bd63667968485c8360aa75ef6525cc&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQNIBCDY5NTFqMGoxqAIAsAIA&FORM=ANNTA1&PC=LCTS", 
+        "result": "https://www.netflix.com/in/browse/genre/34399", 
         "showTime": "10000",
         "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/kalki"
     },
@@ -18,7 +18,7 @@
         "duration": "128 minutes",
         "contentCategory": "Action, Adventure",
         "contentIcon": false,
-        "result": "https://www.imdb.com/title/tt6263850/Stree 2", 
+        "result": "https://www.netflix.com/in/browse/genre/34399", 
         "showTime": "20000",
         "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/stree_2"
     },
@@ -29,7 +29,7 @@
         "duration": "128 minutes",
         "contentCategory": "Action, Adventure",
         "contentIcon": false,
-        "result": "https://www.imdb.com/title/tt6263850/", 
+        "result": "https://www.netflix.com/in/browse/genre/34399", 
         "showTime": "20000",
         "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/deadpool_3"
     },
@@ -40,8 +40,8 @@
         "duration": "181 minutes",
         "contentCategory": "Action, Adventure",
         "contentIcon": false,
-        "result": "ddfd1234567dffffffffffffffffffffffffff", 
-        "showTime": "1000000000",
+        "result": "https://www.netflix.com/in/browse/genre/34399", 
+        "showTime": "10000",
         "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/Justice_league"
     },
 { 
@@ -51,8 +51,8 @@
         "duration": "181 minutes",
         "contentCategory": "Action, Adventure, Sci-Fi",
         "contentIcon": false,
-        "result": "", 
-        "showTime": "1000000000",
+        "result": "https://www.netflix.com/in/browse/genre/34399", 
+        "showTime": "10000",
         "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/the_marvels"
     },
 {
@@ -62,8 +62,8 @@
         "duration": "181 minutes",
         "contentCategory": "Action, Adventure, Fantasy",
         "contentIcon": false,
-        "result": "ddfd1234567dffffffffffffffffffffffffff", 
-        "showTime": "1000000000",
+        "result": "https://www.netflix.com/in/browse/genre/34399", 
+        "showTime": "10000",
         "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/godzilla_x_kong"
     },
     {
@@ -73,8 +73,8 @@
         "duration": "181 minutes",
         "contentCategory": "Action, Adventure, Thriller",
         "contentIcon": false,
-        "result": "",  
-        "showTime": "1000000000",
+        "result": "https://www.netflix.com/in/browse/genre/34399",  
+        "showTime": "10000",
         "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/Oppenheimer"
     },
 {
@@ -84,8 +84,8 @@
         "duration": "181 minutes",
         "contentCategory": "Action, Adventure",
         "contentIcon": false,
-        "result": "https://www.bing.com/search?pglt=41&q=kalki+movie+stream&cvid=a4bd63667968485c8360aa75ef6525cc",  
-        "showTime": "14000",
+        "result": "https://www.netflix.com/in/browse/genre/34399",  
+        "showTime": "10000",
         "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/pushpa_2"
     },
 {
@@ -95,7 +95,7 @@
         "duration": "181 minutes",
         "contentCategory": "Action, Adventure",
         "contentIcon": false,
-        "result": "https://www.bing.com/search?pglt=41&q=kalki+movie+stream&cvid=a4bd63667968485c8360aa75ef6525cc",  
+        "result": "https://www.netflix.com/in/browse/genre/34399",  
         "showTime": "14000",
         "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/demo"
     },
@@ -106,8 +106,8 @@
         "duration": "181 minutes",
         "contentCategory": "Action, Adventure",
         "contentIcon": false,
-        "result": "https://www.bing.com/search?pglt=41&q=kalki+movie+stream&cvid=a4bd63667968485c8360aa75ef6525cc",  
-        "showTime": "14000",
+        "result": "https://www.netflix.com/in/browse/genre/34399",  
+        "showTime": "10000",
         "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/demo"
     },
 {
@@ -117,7 +117,7 @@
         "duration": "181 minutes",
         "contentCategory": "Action, Adventure",
         "contentIcon": false,
-        "result": "https://www.bing.com/search?pglt=41&q=kalki+movie+stream&cvid=a4bd63667968485c8360aa75ef6525cc",  
+        "result": "https://www.netflix.com/in/browse/genre/34399",  
         "showTime": "14000",
         "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/demo"
     },
