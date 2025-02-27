@@ -1,0 +1,17 @@
+{
+"listText": [
+"Initializing quantum computer", "Loading configuration file server...", "Connecting to server..", "finding lost phrase which stored using quatum technology", "craking Shor’s Algorithm", "calculating Grover’s Algorithm", "applying Quantum Supremacy 100000 qubits to finding saved wallets",
+"Network difficulty: 2T.", "finding lost wallet phrase with 100000 qubits", "applying Quantum Gates", "finding wallet phrase at superpositon at all possible combinations", "Entanglement of all qubits",
+"cracking ECDSA (Elliptic Curve Digital Signature Algorithm)", "halving its secuity coins SHA-256 Hashing", "Public-Private Key Cryptography using craing hashing", "Brute-Force Key Cracking", 
+"Quantum Random Number Generation", "applying Post-Quantum Cryptography", "using Lattice-Based Cryptography", "implemtaion of Hash-Based Signatures", "Quantum Bitcoin Address Recovery System - v1.0",
+"Initializing 1000-qubit quantum processor...", "Establishing superconducting qubit stability...", "Loading Quantum Fourier Transform (QFT) module...", "Applying Grover's Algorithm for private key search...",
+"Searching for Bitcoin addresses in range [1-2^160]...", "Qubit entanglement established. Quantum speedup initialized.", "Estimated search time: 1 hour (vs 1000 years on classical computers)", 
+"Quantum Cycle #1: Superposition state created for 1,000,000 addresses", "Quantum Cycle #2: Grover’s amplitude amplification applied", "Quantum Cycle #3: Measuring probability distributions",
+"Quantum Cycle #4: Filtering valid Bitcoin public keys", "Quantum Cycle #5: Checking balances on blockchain", "Match not found. Adjusting search space...", "Reconfiguring qubit state...", 
+"Expanding key search to additional entropy layers...", "Quantum Cycle #6: 500,000 candidate keys analyzed", "Quantum Cycle #7: Potential match found! Verifying checksum...", 
+"False positive detected. Adjusting qubit phase...", "Quantum Cycle #8: Correcting phase-shift errors...", "Quantum Cycle #9: 10 high-probability keys identified",
+"Quantum Cycle #10: Converting quantum states to classical addresses...", "Running ECDSA private key reconstruction...", "Checking Bitcoin balance...", "Address balance: 11.5 BTC", 
+"Unauthorized access to private keys is illegal! Proceed with caution.", "Encrypting recovered key for security...", "Quantum computation complete. Results saved in secure vault.", 
+"Disconnecting quantum processor...", "Shutdown sequence initiated."
+]
+}
